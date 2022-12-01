@@ -1,2 +1,0 @@
- 
-gcc main.c util.c -lGL -lGLEW -lglut -lm -std=c99 -Wall -Wextra
